@@ -9,6 +9,7 @@ Created on Sun Nov  1 11:06:35 2020
 # version 1 
 
 print(" Début du projet covid-19 !! ")
+print(" test repository distant")
 
 
 
